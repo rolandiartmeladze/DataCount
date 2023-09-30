@@ -1,7 +1,7 @@
 {
   "name": "data_count",
   "version": "0.1.0",
-  "homepage": "https://github.com/rolandiartmeladze/FirstReactApp-DataCount",
+  "homepage": "https://github.com/rolandiartmeladze/DataCount",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
